@@ -8,3 +8,15 @@ Club Hub features three distinct user roles, all accessible through UH ID login.
 * Club Administrators have special access to manage their organization's profile, keeping information up to date for potential members.
 * Super Administrators oversee the platform, ensuring content remains appropriate and accurate. They also have the authority to assign Club Admin privileges to eligible users.
 
+The website will include the following pages:
+* Landing Page
+  * main directory to other pages
+  * Includes list of organizations in the middle
+* User Page
+  * Landing page tailored to user
+* Admin Page
+  * moderators
+
+## Use Cases
+
+
