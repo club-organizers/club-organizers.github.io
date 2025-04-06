@@ -20,5 +20,14 @@ The website will include the following pages:
   * moderators
 
 ## Use Cases
+* New user gets to the landing page, goes to login, gets to user home page, sets up profile.
+* Admin goes to landing page, logs in, moderates club page
+* Club admin user goes to landing page, logs in, goes to club page, edits page
 
+## Additional Implimentation
+Once the webpage has been implimented, our team will try work on more technical features including:
+* User comments and reports
+ * User may be able to comment on organizations or report inappropriate acctivities
+* Notify and email users about club "expiration dates"
+* Add tags that users can use to search  
 
