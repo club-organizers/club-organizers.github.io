@@ -1,6 +1,3 @@
-name: something
-title: null
-
 # Club Organizers
 
 ## Overview
