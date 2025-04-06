@@ -1,7 +1,3 @@
----
-title: ""
----
-
 # Club Organizers
 
 ## Overview
