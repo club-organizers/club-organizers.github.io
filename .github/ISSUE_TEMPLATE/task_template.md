@@ -1,7 +1,7 @@
 ---
-name: 🧪 Task Template
+name: Task Template
 about: Use this to create a new task for M1
-title: "[TASK] Short title here"
+title: "issue-XX"
 labels: task
 assignees:
 ---
