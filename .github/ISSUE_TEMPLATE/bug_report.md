@@ -1,7 +1,7 @@
 ---
 name: 🐞 Bug Report
 about: Report something that's not working as expected
-title: "[BUG] Short description here"
+title: "issue-XX"
 labels: bug
 assignees:
 ---
