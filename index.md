@@ -1,6 +1,5 @@
 ---
-title: null
-name: club org
+title: "Club Organizers"
 ---
 
 ## Overview
