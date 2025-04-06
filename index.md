@@ -1,3 +1,7 @@
+---
+title: Club Organizers
+name: club org
+---
 # Club Organizers
 
 ## Overview
