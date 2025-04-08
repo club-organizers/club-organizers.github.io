@@ -31,4 +31,8 @@ Once the webpage has been implimented, our team will try work on more technical 
 * Notify and email users about club "expiration dates"
 * Add tags that users can use to search  
 
+## Landing Page
+<div class="text-center p-4">
+  <img width="400px" src="../images/Club.png" class="img-thumbnail" >
+</div>
 
