@@ -1,3 +1,3 @@
 # club-organizers.github.io
 
-![Club-Organizers](./images/club.png)
+![Club-Organizers](images/Club.png)
