@@ -3,7 +3,7 @@
 ## Overview
 Club Organizers is a centralized platform dedicated to showcasing the diverse range of student organizations at the University of Hawaiʻi at Mānoa. With over 150 Registered Independent Organizations (RIOs) on campus, students have countless opportunities to get involved, connect with others, and pursue their interests. However, finding clear and up-to-date information about these organizations can be a challenge. Club Organizers aims to bridge that gap by offering an easy-to-navigate space where students can discover clubs, access contact details, stay updated on events, and engage with the vibrant UH Mānoa community.
 
-## Organization
+## Organization Links
 Source: [Click Here](https://github.com/club-organizers)
 
 Mockup Website:[Click Here](https://sites.google.com/hawaii.edu/cluborganizers/landing-page)
