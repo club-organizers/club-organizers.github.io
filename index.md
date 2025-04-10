@@ -6,11 +6,11 @@ Club Organizers is a centralized platform dedicated to showcasing the diverse ra
 ## Organization Links
 Source: [Click Here](https://github.com/club-organizers)
 
-Mockup Website:[Click Here](https://sites.google.com/hawaii.edu/cluborganizers/landing-page)
+Mockup Website: [Click Here](https://sites.google.com/hawaii.edu/cluborganizers/landing-page)
 
-Team Contract:[Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7AcKQ1AbLDW_A7vJOKKQtOJAw8rHTU/edit?usp=sharing)
+Team Contract: [Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7AcKQ1AbLDW_A7vJOKKQtOJAw8rHTU/edit?usp=sharing)
 
-M1 Project Board [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
+M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
 
 ## Approach
 
@@ -43,5 +43,10 @@ Once the webpage has been implimented, our team will try work on more technical 
 ## Landing Page
 <div class="text-center p-4">
   <img width="800px" src="../images/Club.png" class="img-thumbnail" >
+</div>
+
+## User Login Page
+<div class="text-center p-4">
+  <img width="800px" src="../images/UserLogin.png" class="img-thumbnail" >
 </div>
 
