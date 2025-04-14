@@ -20,6 +20,8 @@ For Milestone 2, our team will focus on implementing:
 * something
 * something 
 
+M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
+
 ## Approach
 
 Club Hub features three distinct user roles, all accessible through UH ID login.
