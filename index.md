@@ -12,6 +12,14 @@ Team Contract: [Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7Ac
 
 M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
 
+Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
+
+## M2 Preview
+For Milestone 2, our team will focus on implementing:
+* something
+* something
+* something 
+
 ## Approach
 
 Club Hub features three distinct user roles, all accessible through UH ID login.
