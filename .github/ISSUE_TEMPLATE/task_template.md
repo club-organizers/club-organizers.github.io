@@ -1,6 +1,6 @@
 ---
 name: Task Template
-about: Use this to create a new task for M1
+about: Use this to create a new task!
 title: "issue-XX"
 labels: task
 assignees:
@@ -15,8 +15,13 @@ Describe what needs to be done for this issue.
 ## 📅 Deadline (if any)
 Add a target date if needed: YYYY-MM-DD
 
-## 👨‍💻 Assigned to
-@your-github-username
+## ⏱️ Estimation
+- **Estimated Effort (mins)**: 
+- **Estimator**: 
+
+## 📊 Actual Effort (update as you go)
+- **Coding Effort (mins)**: 
+- **Non-Coding Effort (mins)**: 
 
 ## 📝 Notes
 - Link related files or mockups here
