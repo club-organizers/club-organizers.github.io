@@ -17,7 +17,7 @@ Add a target date if needed: YYYY-MM-DD
 
 ## ⏱️ Estimation
 - **Estimated Effort (mins)**: 
-- **Estimator**: 
+- **Estimator (ur name)**: 
 
 ## 📊 Actual Effort (update as you go)
 - **Coding Effort (mins)**: 
