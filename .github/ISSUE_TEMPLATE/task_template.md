@@ -1,7 +1,7 @@
 ---
 name: Task Template
 about: Use this to create a new task!
-title: "issue-XX"
+title: 
 labels: task
 assignees:
 ---
