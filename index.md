@@ -19,7 +19,7 @@ For Milestone 1, our team created basic HTML mock-up pages to visualize the init
 
 Milestone 1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
 <div class="text-center p-4">
-  <img width="500px" src="images/M1.PNG" class="img-thumbnail" >
+  <img width="700px" src="images/M1.PNG" class="img-thumbnail" >
 </div>
 
 ## M2 Preview
