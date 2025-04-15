@@ -14,6 +14,11 @@ M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/
 
 Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
 
+## Milestone 1
+For Milestone 1, our team created basic HTML mock-up pages to visualize the initial layout and structure of our website. 
+
+Milestone 1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
+
 ## M2 Preview
 For Milestone 2, our team will focus on implementing:
 * something
