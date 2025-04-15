@@ -19,6 +19,8 @@ For Milestone 1, our team created basic HTML mock-up pages to visualize the init
 
 Milestone 1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
 
+![](images/M1.PNG)
+
 ## M2 Preview
 For Milestone 2, our team will focus on implementing:
 * something
