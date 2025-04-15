@@ -23,12 +23,19 @@ Club Hub features three distinct user roles, all accessible through UH ID login.
 
 The website will include the following pages:
 * Landing Page
-  * main directory to other pages
-  * Includes a list of organizations in the middle
-* User Page
-  * Landing page tailored to user
-* Admin Page
-  * moderators
+  * Main directory to other pages
+  * Includes a few organizations in the middle
+* Information Page
+  * A brief summary about the purpose of the website
+* Your Profile Page
+  * Displays the user's information and profile
+* Clubs Page
+  * A list of clubs the user can join
+* Search Page
+  * Allows the user to search for any clubs that they may be interested in
+* Login Pages
+  * Sign in
+  * Sign up
 
 ## Use Cases
 * New user gets to the landing page, goes to login, gets to user home page, sets up profile.
@@ -36,7 +43,7 @@ The website will include the following pages:
 * Club admin user goes to landing page, logs in, goes to club page, edits page
 
 ## Additional Implementation
-Once the webpage has been implemented, our team will try work on more technical features including:
+Once the webpage has been implemented, our team will try work on more technical features, including:
 * User comments and reports
  * User may be able to comment on organizations or report inappropriate activities
 * Notify and email users about club "expiration dates"
