@@ -5,7 +5,7 @@
  * [Overview](#overview)
  * [Approach](#approach)
  * [Use Cases](#use-cases)
- * [Additional Implementation](#Additional-Implementation)
+ * [Additional Implementation](#additional-implementation)
  * [Organization Links](#Organization-Links)
  * [Milestone 1](#Milestone-1)
  * [M2 Preview](#M2-Preview)
