@@ -78,11 +78,21 @@ M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/
 
 ## Landing Page
 <div class="text-center p-4">
-  <img width="800px" src="../images/Club.png" class="img-thumbnail" >
+  <img width="800px" src="images/M1HomePage.png" class="img-thumbnail" >
 </div>
 
-## User Login Page
+## Information Page
 <div class="text-center p-4">
-  <img width="800px" src="../images/UserLogin.png" class="img-thumbnail" >
+  <img width="800px" src="images/M1InfoPage.png" class="img-thumbnail" >
+</div>
+
+## Sign-In Page
+<div class="text-center p-4">
+  <img width="800px" src="images/M1SignInPage.png" class="img-thumbnail" >
+</div>
+
+## Sign-Up Page
+<div class="text-center p-4">
+  <img width="800px" src="images/M1SignUpPage.png" class="img-thumbnail" >
 </div>
 
