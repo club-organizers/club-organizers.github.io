@@ -25,7 +25,8 @@
   To run Playwright tests and check for ESLint issues:
     npx playwright test
     npm run lint
-
+   
+---
 
 
 ## Table of contents
