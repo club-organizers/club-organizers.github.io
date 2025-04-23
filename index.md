@@ -72,11 +72,20 @@ Milestone 1 Project Board: [Click Here](https://github.com/orgs/club-organizers/
 
 ## M2 Preview
 For Milestone 2, our team will focus on implementing:
+* focused on implementing dynamic club pages
+* database integration for reading and writing data
+* continuous integration with automated testing.
+
+M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
+
+
+## M3 Preview
+For Milestone 3, our team will focus on implementing:
 * something
 * something
 * something 
 
-M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
+M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/7)
 
 ## Landing Page
 <div class="text-center p-4">
