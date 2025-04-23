@@ -1,5 +1,7 @@
 # Club Organizers
 
+![CI](https://github.com/club-organizers/club-main/actions/workflows/ci.yml/badge.svg)
+
 ## Table of contents
 
  * [Overview](#overview)
