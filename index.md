@@ -85,6 +85,36 @@ Once the webpage has been implemented, our team will try work on more technical 
 * Notify and email users about club "expiration dates"
 * Add tags that users can use to search
 
+## 👨‍💻 Developer Guide
+
+### 🛠 Setup Instructions
+
+1. **Clone the repository:**  
+   git clone https://github.com/club-organizers/club-main.git
+   cd club-main
+---
+
+2. **Install dependencies:**
+   npm install
+   Create a .env.local file with your environment variables:
+---
+
+3. **Create a .env.local file with your environment variables**
+   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
+---
+
+4. **Run the development server:**
+   npm run dev
+---
+
+ 　**✅ Running Tests**
+  To run Playwright tests and check for ESLint issues:
+    npx playwright test
+    npm run lint
+   
+---
+
 ## Organization Links
 Source: [Click Here](https://github.com/club-organizers)
 
