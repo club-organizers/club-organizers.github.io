@@ -1,6 +1,8 @@
 # Club Organizers
 
 ![CI](https://github.com/club-organizers/club-main/actions/workflows/ci.yml/badge.svg)
+* Playwright tests ensure that all core pages (Landing, Clubs, Info, etc.) load properly and that forms (e.g. club submission forms) function correctly with valid input.
+
 
 ## 👨‍💻 Developer Guide
 
