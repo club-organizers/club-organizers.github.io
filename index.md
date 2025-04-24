@@ -12,9 +12,7 @@
  * [Organization Links](#organization-links)
  * [Milestone 1](#milestone-1)
  * [M2 Preview](#m2-preview)
- * [Landing Page](#landing-page)
- * [User Login Page](#user-login-page)
- * [Developer Guide](#developer-guide)
+ * [User Guide](#user-guide)
 
 ## Overview
 Club Organizers is a centralized platform dedicated to showcasing the diverse range of student organizations at the University of Hawaiʻi at Mānoa. With over 150 Registered Independent Organizations (RIOs) on campus, students have countless opportunities to get involved, connect with others, and pursue their interests. However, finding clear and up-to-date information about these organizations can be a challenge. Club Organizers aims to bridge that gap by offering an easy-to-navigate space where students can discover clubs, access contact details, stay updated on events, and engage with the vibrant UH Mānoa community.
@@ -123,23 +121,58 @@ For Milestone 3, our team will focus on implementing:
 
 M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/7)
 
-## Landing Page
+## User Guide
+### Landing Page
+When you open the application, users will be welcomed with our landing page. It has a brief description of the website and allows users to discover more clubs with a click of a button at the bottom. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M1HomePage.png" class="img-thumbnail" >
+  <img width="800px" src="images/M2-Landing Page.png" class="img-thumbnail" >
 </div>
 
-## Information Page
+### Information Page
+The Information tab will lead users to a page that gives more information about the purpose of our website. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M1InfoPage.png" class="img-thumbnail" >
+  <img width="800px" src="images/M2-Info Page.png" class="img-thumbnail" >
 </div>
 
-## Sign-In Page
+### Register Club Page
+If users wish to learn how to make a new official club, the Register Club tab will open up to a page that will give instructions and links to help guide them. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M1SignInPage.png" class="img-thumbnail" >
+  <img width="800px" src="images/M2-Register-Club.png" class="img-thumbnail" >
+</div>
+
+### Recommended Clubs
+When users press the Recommended Clubs tab, they can use a drop-down list with the different types of clubs. Users simply select one, and they will be shown all of the different clubs that match said type. If they see a club they are interested in, they can view details about it. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M2-Rec Clubs Ex.png" class="img-thumbnail" >
+</div>
+
+### Clubs Page
+If users wish to see all of the clubs available at UH, they can click on the Clubs tab, which will show all of the clubs in alphabetical order. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M2-Clubs.png" class="img-thumbnail" >
+</div>
+
+### Search Page
+If users wish to search for a specific club, they can go to the Search tab and search for a club using the name or description. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M2-Search.png" class="img-thumbnail" >
+</div>
+
+### Add Club Page
+If users wish to add a club, they can refer to the Add Club tab. They simply need to provide the following information and add the club. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M2-Add Club.png" class="img-thumbnail" >
+</div>
+
+### Log In Page
+If users have an account, they can log in using their email and password. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M2-Login.png" class="img-thumbnail" >
 </div>
 
 ## Sign-Up Page
+If users have yet to make an account, they can sign up by providing their email and a password. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M1SignUpPage.png" class="img-thumbnail" >
+  <img width="800px" src="images/M2-Sign up.png" class="img-thumbnail" >
 </div>
 
