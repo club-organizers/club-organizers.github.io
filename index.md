@@ -89,16 +89,16 @@ Mockup Website: [Click Here](https://sites.google.com/hawaii.edu/cluborganizers/
 
 Team Contract: [Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7AcKQ1AbLDW_A7vJOKKQtOJAw8rHTU/edit?usp=sharing)
 
-M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
+M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/)
 
-M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/4)
+M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4/)
 
 Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
 
 ## Milestone 1
 For Milestone 1, our team created basic HTML mock-up pages to visualize the initial layout and structure of our website. 
 
-Milestone 1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
+M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2)
 <div class="text-center p-4">
   <img width="700px" src="images/M1.PNG" class="img-thumbnail" >
 </div>
