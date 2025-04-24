@@ -91,6 +91,8 @@ Team Contract: [Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7Ac
 
 M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/1)
 
+M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/views/4)
+
 Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
 
 ## Milestone 1
