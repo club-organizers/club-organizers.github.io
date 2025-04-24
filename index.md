@@ -89,9 +89,11 @@ Mockup Website: [Click Here](https://sites.google.com/hawaii.edu/cluborganizers/
 
 Team Contract: [Click Here](https://docs.google.com/document/d/1zwaHmw8kk4Dnj7AcKQ1AbLDW_A7vJOKKQtOJAw8rHTU/edit?usp=sharing)
 
-M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2/)
+M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2)
 
-M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4/)
+M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
+
+M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/7)
 
 Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
 
