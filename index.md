@@ -10,8 +10,7 @@
  * [Use Cases](#use-cases)
  * [Additional Implementation](#additional-implementation)
  * [Organization Links](#organization-links)
- * [Milestone 1](#milestone-1)
- * [M2 Preview](#m2-preview)
+ * [Milestones](#milestones)
  * [User Guide](#user-guide)
  * [Contact Us](#contact-us)
 
@@ -97,7 +96,8 @@ M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/
 
 Vercel Deployment: [Click Here](https://club-main-sandy.vercel.app)
 
-## Milestone 1
+## Milestones
+### Milestone 1
 For Milestone 1, our team created basic HTML mock-up pages to visualize the initial layout and structure of our website. 
 
 M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/2)
@@ -105,16 +105,16 @@ M1 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/
   <img width="700px" src="images/M1.PNG" class="img-thumbnail" >
 </div>
 
-## M2 Preview
-For Milestone 2, our team will focus on implementing:
-* focused on implementing dynamic club pages
+### Milestone 2
+For Milestone 2, our team focused on implementing:
+* dynamic club pages
 * database integration for reading and writing data
 * continuous integration with automated testing.
 
 M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
 
 
-## M3 Preview
+### Milestone 3
 For Milestone 3, our team will focus on implementing:
 * something
 * something
