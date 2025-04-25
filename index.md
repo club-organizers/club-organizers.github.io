@@ -113,7 +113,9 @@ For Milestone 2, our team focused on implementing:
 * continuous integration with automated testing
 
 M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
-
+<div class="text-center p-4">
+  <img width="700px" src="images/M2.PNG" class="img-thumbnail" >
+</div>
 
 ### Milestone 3
 For Milestone 3, our team will focus on implementing:
