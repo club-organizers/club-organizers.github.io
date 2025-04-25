@@ -52,7 +52,7 @@ Once the webpage has been implemented, our team will try work on more technical 
 * Notify and email users about club "expiration dates"
 * Add tags that users can use to search
 
-## 👨‍💻 Developer Guide
+## Developer Guide
 
 ### 🛠 Setup Instructions
 
