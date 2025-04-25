@@ -9,7 +9,7 @@
  * [Approach](#approach)
  * [Use Cases](#use-cases)
  * [Additional Implementation](#additional-implementation)
- * [Developer Guide](#👨‍💻developer-guide)
+ * [Developer Guide](#👨‍💻-developer-guide)
  * [Organization Links](#organization-links)
  * [Milestones](#milestones)
  * [User Guide](#user-guide)
