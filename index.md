@@ -13,6 +13,7 @@
  * [Milestone 1](#milestone-1)
  * [M2 Preview](#m2-preview)
  * [User Guide](#user-guide)
+ * [Contact Us](#contact-us)
 
 ## Overview
 Club Organizers is a centralized platform dedicated to showcasing the diverse range of student organizations at the University of Hawaiʻi at Mānoa. With over 150 Registered Independent Organizations (RIOs) on campus, students have countless opportunities to get involved, connect with others, and pursue their interests. However, finding clear and up-to-date information about these organizations can be a challenge. Club Organizers aims to bridge that gap by offering an easy-to-navigate space where students can discover clubs, access contact details, stay updated on events, and engage with the vibrant UH Mānoa community.
@@ -153,13 +154,13 @@ If users wish to see all of the clubs available at UH, they can click on the Clu
 </div>
 
 ### Search Page
-If users wish to search for a specific club, they can go to the Search tab and search for a club using the name or description. 
+If users would rather search for a specific club, they can go to the Search tab and search for a club using the name or description. 
 <div class="text-center p-4">
   <img width="800px" src="images/M2-Search.png" class="img-thumbnail" >
 </div>
 
 ### Add Club Page
-If users wish to add a club, they can refer to the Add Club tab. They simply need to provide the following information and add the club. 
+To add a club, users can refer to the Add Club tab. Simply providing the following information and adding the club will add it to the club database. 
 <div class="text-center p-4">
   <img width="800px" src="images/M2-Add Club.png" class="img-thumbnail" >
 </div>
@@ -175,4 +176,11 @@ If users have yet to make an account, they can sign up by providing their email 
 <div class="text-center p-4">
   <img width="800px" src="images/M2-Sign up.png" class="img-thumbnail" >
 </div>
+
+## Contact Us
+(Rei)[https://reifukuzawa.github.io/]
+(Kenji)[https://kenji-ks.github.io/]
+(Peter)[https://peter-bel.github.io/]
+(Jaaron)[https://jaaronbc.github.io/]
+(Brandon)[http://bkumalaa.github.io/]
 
