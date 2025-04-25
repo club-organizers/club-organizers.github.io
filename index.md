@@ -114,7 +114,7 @@ For Milestone 2, our team focused on implementing:
 
 M2 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/4)
 <div class="text-center p-4">
-  <img width="700px" src="images/M2.PNG" class="img-thumbnail" >
+  <img width="700px" src="images/M2.png" class="img-thumbnail" >
 </div>
 
 ### Milestone 3
