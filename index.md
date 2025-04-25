@@ -178,13 +178,13 @@ If users have yet to make an account, they can sign up by providing their email 
 </div>
 
 ## Contact Us
-(Rei)[https://reifukuzawa.github.io/]
+[Rei](https://reifukuzawa.github.io/)
 
-(Kenji)[https://kenji-ks.github.io/]
+[Kenji](https://kenji-ks.github.io/)
 
-(Peter)[https://peter-bel.github.io/]
+[Peter](https://peter-bel.github.io/)
 
-(Jaaron)[https://jaaronbc.github.io/]
+[Jaaron](https://jaaronbc.github.io/)
 
-(Brandon)[http://bkumalaa.github.io/]
+[Brandon](http://bkumalaa.github.io/)
 
