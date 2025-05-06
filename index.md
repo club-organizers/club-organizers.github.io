@@ -185,30 +185,33 @@ If users have yet to make an account, they can sign up by providing their email 
 
 ## Contact Us
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://reifukuzawa.github.io/">
+        <img src="https://your-image-hosting.com/rei.jpg" width="100"/><br/>Rei
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kenji-ks.github.io/">
+        <img src="https://your-image-hosting.com/kenji.jpg" width="100"/><br/>Kenji
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://peter-bel.github.io/">
+        <img src="https://your-image-hosting.com/peter.jpg" width="100"/><br/>Peter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jaaronbc.github.io/">
+        <img src="https://your-image-hosting.com/jaaron.jpg" width="100"/><br/>Jaaron
+      </a>
+    </td>
+    <td align="center">
+      <a href="http://bkumalaa.github.io/">
+        <img src="https://your-image-hosting.com/brandon.jpg" width="100"/><br/>Brandon
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
- <img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius:  50%;"><br>
- [Rei](https://reifukuzawa.github.io/)
-</div>
-
-<div align="center">
-<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
-[Kenji](https://kenji-ks.github.io/)
-</div>
-
-<div align="center">
-<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
-[Peter](https://peter-bel.github.io/)
-</div>
-
-<div align="center">
-<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
-[Jaaron](https://jaaronbc.github.io/)
-</div>
-
-<div align="center">
-<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
-[Brandon](http://bkumalaa.github.io/)
-</div>
-</div>
