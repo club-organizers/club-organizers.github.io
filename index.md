@@ -184,13 +184,26 @@ If users have yet to make an account, they can sign up by providing their email 
 ## Community Feedback
 
 ## Contact Us
+
+<div align="center">
+
+<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
 [Rei](https://reifukuzawa.github.io/)
+<br><br>
 
+<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
 [Kenji](https://kenji-ks.github.io/)
+<br><br>
 
+<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
 [Peter](https://peter-bel.github.io/)
+<br><br>
 
+<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
 [Jaaron](https://jaaronbc.github.io/)
+<br><br>
 
+<img src="https://your-image-hosting.com/rei.jpg" alt="Rei" width="150" style="border-radius: 50%;"><br>
 [Brandon](http://bkumalaa.github.io/)
-
+<br><br>
+</div>
