@@ -13,6 +13,7 @@
  * [Organization Links](#organization-links)
  * [Milestones](#milestones)
  * [User Guide](#user-guide)
+ * [Community Feedback](#community-feedback)
  * [Contact Us](#contact-us)
 
 ## Overview
@@ -179,6 +180,8 @@ If users have yet to make an account, they can sign up by providing their email 
 <div class="text-center p-4">
   <img width="800px" src="images/M2-Sign up.png" class="img-thumbnail" >
 </div>
+
+## Community Feedback
 
 ## Contact Us
 [Rei](https://reifukuzawa.github.io/)
