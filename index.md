@@ -154,8 +154,8 @@ If users wish to see all of the clubs available at UH, they can click on the Clu
 ### Individual Clubs
 When users find a club that interests them, they can click the View Details button to get some basic information about it. If the user is an admin, they have the ability to delete a club. 
 <div class="text-center p-4">
-  <img width="800px" src="images/admin.png" class="img-thumbnail" >
   <img width="800px" src="images/M3CLUBSCLUB.PNG" class="img-thumbnail" >
+  <img width="800px" src="images/admin.png" class="img-thumbnail" >
 </div>
 
 ### Search Page
