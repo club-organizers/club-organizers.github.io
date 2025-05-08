@@ -145,23 +145,25 @@ If users wish to learn how to make a new official club, the Register Club tab wi
   <img width="800px" src="images/M3REG.PNG" class="img-thumbnail" >
 </div>
 
-### Recommended Clubs
-When users press the Recommended Clubs tab, they can use a drop-down list with the different types of clubs. Users simply select one, and they will be shown all of the different clubs that match said type. If they see a club they are interested in, they can view details about it. 
-<div class="text-center p-4">
-  <img width="800px" src="images/M2-Rec Clubs Ex.png" class="img-thumbnail" >
-</div>
-
 ### Clubs Page
 If users wish to see all of the clubs available at UH, they can click on the Clubs tab, which will show all of the clubs in alphabetical order. 
 <div class="text-center p-4">
-  <img width="800px" src="images/ClubNames.PNG" class="img-thumbnail" >
+  <img width="800px" src="images/M3CLUBS.PNG" class="img-thumbnail" >
 </div>
 
 ### Search Page
 If users would rather search for a specific club, they can go to the Search tab and search for a club using the name or description. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M2-Search.png" class="img-thumbnail" >
+  <img width="800px" src="images/M3SEARCH.PNG" class="img-thumbnail" >
 </div>
+
+### Recommended Clubs
+When users sign in and press the Recommended Clubs tab, they can use a drop-down list of the different types of clubs. Users simply select one, and they will be shown all of the different clubs that match said type. If they see a club they are interested in, they can view details about it. 
+<div class="text-center p-4">
+  <img width="800px" src="images/M3REC.PNG" class="img-thumbnail" >
+</div>
+
+
 
 ### Add Club Page
 To add a club, users can refer to the Add Club tab. Simply providing the following information and adding the club will add it to the club database. 
@@ -182,7 +184,7 @@ If users have yet to make an account, they can sign up by providing their email 
 </div>
 
 ## Community Feedback
-* "I feel that the club, search, and reccomended clubs pages could merged into a single page so that there is less bloat in the Navbar"
+* "I feel that the club, search, and recommended clubs pages could merged into a single page so that there is less bloat in the Navbar"
 * "I think that a club member count could be a useful addition"
 
 ## Contact Us
