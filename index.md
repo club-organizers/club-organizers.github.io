@@ -196,7 +196,7 @@ To add a club, users can refer to the Add Club tab. Simply providing the followi
     </td>
     <td align="center">
       <a href="https://kenji-ks.github.io/">
-        <img src="https://your-image-hosting.com/kenji.png" width="100"/><br/>Kenji
+        <img src="images/kenji.png" width="100"/><br/>Kenji
       </a>
     </td>
     <td align="center">
