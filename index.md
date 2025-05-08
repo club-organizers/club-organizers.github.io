@@ -182,6 +182,8 @@ If users have yet to make an account, they can sign up by providing their email 
 </div>
 
 ## Community Feedback
+* "I feel that the club, search, and reccomended clubs pages could merged into a single page so that there is less bloat in the Navbar"
+* "I think that a club member count could be a useful addition"
 
 ## Contact Us
 
