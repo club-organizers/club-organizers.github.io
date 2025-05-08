@@ -125,6 +125,9 @@ For Milestone 3, our team will focus on implementing:
 * Personal user changes
 
 M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/7)
+<div class="text-center p-4">
+  <img width="700px" src="images/M3PROJECTBOARD.PNG" class="img-thumbnail" >
+</div>
 
 ## User Guide
 ### Landing Page
