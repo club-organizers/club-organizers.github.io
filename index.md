@@ -151,6 +151,13 @@ If users wish to see all of the clubs available at UH, they can click on the Clu
   <img width="800px" src="images/M3CLUBS.PNG" class="img-thumbnail" >
 </div>
 
+### Individual Clubs
+When users find a club that interests them, they can click the View Details button to get some basic information about it. If the user is an admin, they have the ability to delete a club. 
+<div class="text-center p-4">
+  <img width="800px" src="images/admin.png" class="img-thumbnail" >
+  <img width="800px" src="images/M3CLUBSCLUB.PNG" class="img-thumbnail" >
+</div>
+
 ### Search Page
 If users would rather search for a specific club, they can go to the Search tab and search for a club using the name or description. 
 <div class="text-center p-4">
@@ -163,24 +170,10 @@ When users sign in and press the Recommended Clubs tab, they can use a drop-down
   <img width="800px" src="images/M3REC.PNG" class="img-thumbnail" >
 </div>
 
-
-
 ### Add Club Page
 To add a club, users can refer to the Add Club tab. Simply providing the following information and adding the club will add it to the club database. 
 <div class="text-center p-4">
   <img width="800px" src="images/M2-Add Club.png" class="img-thumbnail" >
-</div>
-
-### Log In Page
-If users have an account, they can log in using their email and password. 
-<div class="text-center p-4">
-  <img width="800px" src="images/M2-Login.png" class="img-thumbnail" >
-</div>
-
-## Sign-Up Page
-If users have yet to make an account, they can sign up by providing their email and a password. 
-<div class="text-center p-4">
-  <img width="800px" src="images/M2-Sign up.png" class="img-thumbnail" >
 </div>
 
 ## Community Feedback
