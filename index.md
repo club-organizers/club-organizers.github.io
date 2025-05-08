@@ -186,34 +186,8 @@ To add a club, users can refer to the Add Club tab. Simply providing the followi
 * "It would be great to have a way to bookmark or save clubs for later so I can come back to them easily." Rei's friend
 
 ## Contact Us
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://reifukuzawa.github.io/">
-        <img src="https://your-image-hosting.com/rei.jpg" width="100"/><br/>Rei
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kenji-ks.github.io/">
-        <img src="images/kenji.png" width="100"/><br/>Kenji
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://peter-bel.github.io/">
-        <img src="https://your-image-hosting.com/peter.jpg" width="100"/><br/>Peter
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jaaronbc.github.io/">
-        <img src="https://your-image-hosting.com/jaaron.jpg" width="100"/><br/>Jaaron
-      </a>
-    </td>
-    <td align="center">
-      <a href="http://bkumalaa.github.io/">
-        <img src="https://your-image-hosting.com/brandon.jpg" width="100"/><br/>Brandon
-      </a>
-    </td>
-  </tr>
-</table>
-
+[Rei](https://reifukuzawa.github.io)
+[Kenji](https://kenji-ks.github.io)
+[Peter](https://peter-bel.github.io)
+[Jaaron](https://jaaronbc.github.io)
+[Brandon](http://bkumalaa.github.io)
