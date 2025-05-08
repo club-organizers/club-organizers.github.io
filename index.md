@@ -154,7 +154,7 @@ When users press the Recommended Clubs tab, they can use a drop-down list with t
 ### Clubs Page
 If users wish to see all of the clubs available at UH, they can click on the Clubs tab, which will show all of the clubs in alphabetical order. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M2-Clubs.png" class="img-thumbnail" >
+  <img width="800px" src="images/ClubNames.PNG" class="img-thumbnail" >
 </div>
 
 ### Search Page
