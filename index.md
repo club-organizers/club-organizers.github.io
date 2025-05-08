@@ -187,7 +187,11 @@ To add a club, users can refer to the Add Club tab. Simply providing the followi
 
 ## Contact Us
 [Rei](https://reifukuzawa.github.io)
+
 [Kenji](https://kenji-ks.github.io)
+
 [Peter](https://peter-bel.github.io)
+
 [Jaaron](https://jaaronbc.github.io)
+
 [Brandon](http://bkumalaa.github.io)
