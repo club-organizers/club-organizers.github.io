@@ -130,19 +130,19 @@ M3 Project Board: [Click Here](https://github.com/orgs/club-organizers/projects/
 ### Landing Page
 When you open the application, users will be welcomed with our landing page. It has a brief description of the website and allows users to discover more clubs with a click of a button at the bottom. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M2-Landing Page.png" class="img-thumbnail" >
+  <img width="800px" src="images/M3HomePage.PNG" class="img-thumbnail" >
 </div>
 
 ### Information Page
 The Information tab will lead users to a page that gives more information about the purpose of our website. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M2-Info Page.png" class="img-thumbnail" >
+  <img width="800px" src="images/M3INFO.PNG" class="img-thumbnail" >
 </div>
 
 ### Register Club Page
 If users wish to learn how to make a new official club, the Register Club tab will open up to a page that will give instructions and links to help guide them. 
 <div class="text-center p-4">
-  <img width="800px" src="images/M2-Register-Club.png" class="img-thumbnail" >
+  <img width="800px" src="images/M3REG.PNG" class="img-thumbnail" >
 </div>
 
 ### Recommended Clubs
