@@ -186,6 +186,8 @@ If users have yet to make an account, they can sign up by providing their email 
 ## Community Feedback
 * "I feel that the club, search, and recommended clubs pages could merged into a single page so that there is less bloat in the Navbar"
 * "I think that a club member count could be a useful addition"
+* "The site works well on desktop, but a more responsive mobile layout with better spacing and touch-friendly buttons would make it easier to browse on phones." Rei's friend
+* "It would be great to have a way to bookmark or save clubs for later so I can come back to them easily." Rei's friend
 
 ## Contact Us
 
