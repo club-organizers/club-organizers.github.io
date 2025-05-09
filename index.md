@@ -184,6 +184,7 @@ To add a club, users can refer to the Add Club tab. Simply providing the followi
 * "I think that a club member count could be a useful addition" -A UH Club Founder
 * "The site works well on desktop, but a more responsive mobile layout with better spacing and touch-friendly buttons would make it easier to browse on phones." Rei's friend
 * "It would be great to have a way to bookmark or save clubs for later so I can come back to them easily." Rei's friend
+*  "I think adding a review feature where people in clubs could write what they think, maybe could be more interactive" -UH Student
 
 ## Contact Us
 [Rei](https://reifukuzawa.github.io)
